@@ -2,7 +2,7 @@
 
 I created the functional structure block diagram and wrote the full operating-workflow explanation. The diagram defines the machine boundary and the exchanges of eggs, oil, eggshell waste, electrical energy, control signals, and feedback.
 
-[Open the original diagram and explanation](system-design/SunnyPro_Functional_Structure_and_Workflow.pdf) - full-report pages 54-66.
+[Open the complete report section 4 (4.1-4.6)](system-design/SunnyPro_Functional_Structure_and_Workflow.pdf) - full-report pages 54-66.
 
 ## Scope
 

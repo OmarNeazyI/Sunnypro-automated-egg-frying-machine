@@ -1,5 +1,11 @@
 # SunnyPro - Automated Egg-Frying Machine
 
+<p align="center">
+  <strong>Mechanical Engineering &middot; Mechatronics &middot; Product Development</strong><br>
+  SolidWorks &middot; 3D CAD Design &middot; Assembly Modelling &middot; Mechanism Design &middot; Technical Drawings<br>
+  Component Selection &middot; Functional Calculations &middot; Material Selection &middot; Manufacturing Process Selection &middot; BOM
+</p>
+
 SunnyPro is a university team product-development project for an automated sunny-side-up egg-frying machine intended for hotel breakfast and buffet service. The concept combines egg storage and cracking, oil dosing, conveyor transport, top and bottom heating, eggshell collection, and a rotating serving platform.
 
 <p align="center">
@@ -64,7 +70,7 @@ The intended workflow is:
 6. Transfer the cooked eggs to the serving area and index the rotating platform.
 7. Continue operation, replenish consumables, remove waste when appropriate, and enter standby or shutdown.
 
-This is a design description of the intended sequence. The [functional structure and workflow PDF](docs/system-design/SunnyPro_Functional_Structure_and_Workflow.pdf) preserves the full diagram and explanation.
+This is a design description of the intended sequence. The [functional structure and workflow PDF](docs/system-design/SunnyPro_Functional_Structure_and_Workflow.pdf) contains the complete report section 4 (4.1-4.6), including the block diagram and full explanation, on original report pages 54-66.
 
 ## Mechanical subsystem development
 
@@ -159,7 +165,7 @@ Cooking performance, thermal behaviour, hygiene performance, positioning accurac
 | [Materials and manufacturing](docs/materials-and-manufacturing.md) | Material choices and proposed production methods |
 | [Component requirements](docs/components/SunnyPro_Purchased_Component_Requirements.pdf) | Original purchased-component requirements tables |
 | [Team D-FMEA](docs/risk/SunnyPro_Team_DFMEA.pdf) | Risk analysis, primarily developed by teammates |
-| [CAD source access](cad/README.md) | Companion source archive and opening guidance |
+| [Native SolidWorks CAD](cad/README.md) | Actual part and assembly files in cad/native, with opening guidance |
 | [Image originals](assets/images/README.md) | Full-resolution, unaltered CAD screenshots |
 
 ## Skills demonstrated
